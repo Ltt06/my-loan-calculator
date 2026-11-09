@@ -12,7 +12,7 @@ def calculate_loan_payment(principal, annual_interest_rate, months):
 
 
 def main():
-    print("Welcome to the Loan Calculator!")
+    print("Welcome to Ltt06's Loan Calculator!")
     principal = floatValidation("Enter the loan amount: $")
     annual_interest_rate = floatValidation(
         "Enter the annual interest rate (as a percentage): "
